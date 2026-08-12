@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "description": "Self-hosted Ram0 plugins"
+  },
+  "name": "ram0-plugins",
+  "owner": {
+    "name": "Ram0"
+  },
+  "plugins": [
+    {
+      "description": "Self-hosted Ram0 memory with account-derived bearer authentication.",
+      "name": "ram0",
+      "source": "./plugins/ram0",
+      "version": "0.1.0"
+    }
+  ]
+}

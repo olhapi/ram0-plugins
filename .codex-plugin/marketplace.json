@@ -1,0 +1,20 @@
+{
+  "interface": {
+    "displayName": "Ram0 Plugins"
+  },
+  "name": "ram0-plugins",
+  "plugins": [
+    {
+      "category": "Productivity",
+      "name": "ram0",
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "source": {
+        "path": "./plugins/ram0",
+        "source": "local"
+      }
+    }
+  ]
+}
