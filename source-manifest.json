@@ -1,16 +1,16 @@
 {
   "files": {
-    ".claude-plugin/marketplace.json": "f37807b5d7139c2bcd2443b289bf532111958643a980251ced0ccd34cf2e6b2a",
+    ".claude-plugin/marketplace.json": "964c2d5ff1298545c400545d36de5181204a4a23da66d8c263e77226c4aa018c",
     ".codex-plugin/marketplace.json": "fdf6602d5db5498a539f908de9f66209faeed6dccd3d1a5c67d9847c4ca5b471",
     "LICENSE": "0bbcbe931c353293a2fafce08326181dfeea0e568c566afd4ce8337a70f5e219",
     "NOTICE": "314ed207419fb7a5983b4d320b04bdd258502cd1d6cce886837ae5f9dd8a8caf",
     "README.md": "06ba6bb8abae51ab42509da072923a2f227614de652e52fc1863c407ee509672",
     "marketplace.json": "fdf6602d5db5498a539f908de9f66209faeed6dccd3d1a5c67d9847c4ca5b471",
-    "plugins/ram0/.claude-plugin/plugin.json": "c0701905b6c14aa9eba1e3f2c507e45e9e00954704f6b13233cd6588c18e8f8b",
+    "plugins/ram0/.claude-plugin/plugin.json": "825a613a0a2441eb7e4189e0aa69f54e7a7fd2814d2bd9ea1533994da695ca86",
     "plugins/ram0/.codex-mcp.json": "1146edf2d06acace160cf603c821eb0cdec909b1bb6d53ab4fdbb4a086253ffe",
-    "plugins/ram0/.codex-plugin/plugin.json": "c81f0b26b96fca41e01518474be74c6c910239a782997a6a4001cf39556b3f85",
+    "plugins/ram0/.codex-plugin/plugin.json": "97b23896152ed5fce6c2e87d24fb61220a29b192a17f3c6258caa17392fb516e",
     "plugins/ram0/.cursor-mcp.json": "5ada3b15415b6f825da8b638dcd6d7bb25e2287d837376a919974adbecfac803",
-    "plugins/ram0/.cursor-plugin/plugin.json": "315b57242ee04ff878e8d78d602916f6fe41b243937ded8c9a11af83292586b9",
+    "plugins/ram0/.cursor-plugin/plugin.json": "dd3ec49bb5dc5174a0b2e3e4431acbf8b08236408d027d6658445a21df372bf8",
     "plugins/ram0/.mcp.json": "39dba64ca84703a523302b8abd4c058059662fa1297b4ed5e2281453ac53ab80",
     "plugins/ram0/README.md": "76940a94a91f3bcc0dd021fe19ffa492d9cb205cf3a2dd3c42d19d31ff3f6f96",
     "plugins/ram0/UPSTREAM.md": "72eff4d8fd8c86e98d1cd4df29270d339301b1bbb42c0392c5896bffcf270e67",
@@ -19,7 +19,7 @@
     "plugins/ram0/hooks/cursor-hooks.json": "a90ae5ecf965241346c9a6661b34fbf8d23e93dfb87ad788eae5f1a4c508802f",
     "plugins/ram0/hooks/hooks.json": "1e680d7045c3de32399e61db49287c7c0ac691a888c2c538243a3c5dde6b3585",
     "plugins/ram0/mcp_config.json": "ac0fc82500ee130ba714f86d7ac258e2be765c1b58b580bdf245813fedece46b",
-    "plugins/ram0/plugin.json": "6c8f1377f6bbfb3f273ad133c4512bb828bfe530e4418ad796b0c28a43f8c792",
+    "plugins/ram0/plugin.json": "a37a2c44a379f5cc9d817dfdd353e08162fe3c277fb40d57b5a05e3c069c830e",
     "plugins/ram0/requirements.txt": "38b252029f75694c0a6aac02da02168753b63c1b73e5fc34c2c809452de933d5",
     "plugins/ram0/scripts/bootstrap_cli.py": "13b1a42f3552b9808a9cf5a518abb9bb60ef397aa7ba8b4e1818c23ceff3c169",
     "plugins/ram0/scripts/ensure_deps.sh": "0eef129cc690fbcccf41e318a9a204405ecb70f5d5068753dc4f627bd42c18b0",
@@ -38,7 +38,7 @@
     "plugins/ram0/scripts/on_user_prompt_cursor.sh": "79dc0119fe22a17cc3da3e432f66d8b6f6974cfcc20c1ba578e8b6f28a93f990",
     "plugins/ram0/scripts/ram0_cli.py": "826e3791b36218aa23f54e2558fd0d882e4f0bb9eb1ecd68bd9e2d192e2770c0",
     "plugins/ram0/scripts/ram0_client.py": "1ce15d46c0a80d293e9b38ed71147a97162bc6314ba1259e5b62338329a8d22b",
-    "plugins/ram0/scripts/ram0_config.py": "d2b7c7b166a381352c5945cba9c6cb6f8e4248b55c85e58525275cd2eb5a2e27",
+    "plugins/ram0/scripts/ram0_config.py": "f738229c13b4618696695c2f448b5d9d1030a9094db974989505103ff649ee1e",
     "plugins/ram0/scripts/ram0_settings.py": "5ce3b37aa5e496f5ee904b40532c67fd307821e47a77047459d57223f618c184",
     "plugins/ram0/scripts/setup_coding_categories.py": "19e0b86caa0f46d740ec447caaf93f2bc509490a03b7a0c5fdba67bac6b13239",
     "plugins/ram0/skills/dream/SKILL.md": "51d1cd5d9cbd8750f6d6e1d3e1203beaad05ff3fdda57ec64ab66558ab8d3e1f",
@@ -56,6 +56,6 @@
   },
   "marketplace": "ram0-plugins",
   "plugin": "ram0",
-  "source_commit": "6cc7ee58dba4335832cf5e55c091241108ebc3ba",
-  "version": "0.1.0"
+  "source_commit": "69f9b1983fa6515a9f777e34ad13f806bac3befe",
+  "version": "0.1.1"
 }
